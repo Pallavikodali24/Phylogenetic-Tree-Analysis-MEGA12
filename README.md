@@ -2,7 +2,6 @@
 
 > A bioinformatics project demonstrating nucleotide sequence alignment and phylogenetic tree construction using **MEGA 12**.
 
----
 
 ## 📖 Overview
 
@@ -10,7 +9,6 @@ Phylogenetic analysis is a fundamental technique in bioinformatics used to study
 
 In this project, **MEGA 12 (Molecular Evolutionary Genetics Analysis)** was used to perform multiple sequence alignment and construct a phylogenetic tree using the **Neighbor-Joining (NJ)** method with the **Maximum Composite Likelihood** substitution model.
 
----
 
 ## 🎯 Objectives
 
@@ -20,7 +18,6 @@ In this project, **MEGA 12 (Molecular Evolutionary Genetics Analysis)** was used
 - Interpret evolutionary relationships between taxa
 - Gain practical experience with bioinformatics software
 
----
 
 ## 🛠 Software & Tools
 
@@ -30,8 +27,6 @@ In this project, **MEGA 12 (Molecular Evolutionary Genetics Analysis)** was used
 | FASTA Sequences | Input nucleotide data |
 | Neighbor-Joining (NJ) | Tree construction method |
 | Maximum Composite Likelihood | Evolutionary distance estimation |
-
----
 
 ## 🔬 Methodology
 
@@ -53,8 +48,6 @@ In this project, **MEGA 12 (Molecular Evolutionary Genetics Analysis)** was used
 - Examined clustering patterns.
 - Identified evolutionary relationships among the sequences.
 
----
-
 ## 📊 Results
 
 The phylogenetic tree successfully grouped sequences based on their evolutionary similarity.
@@ -65,7 +58,6 @@ Key observations:
 - Evolutionary distances were represented by branch lengths.
 - The analysis provided insights into genetic relationships among the selected taxa.
 
----
 
 ## 📸 Project Workflow
 
@@ -88,8 +80,6 @@ Phylogenetic Tree
 Evolutionary Interpretation
 ```
 
----
-
 ## 🧠 Skills Demonstrated
 
 - Bioinformatics
@@ -101,8 +91,6 @@ Evolutionary Interpretation
 - MEGA 12
 - Data Interpretation
 
----
-
 ## 📚 Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -113,8 +101,6 @@ Through this project, I gained practical experience in:
 - Understanding molecular evolution
 - Using MEGA 12 for bioinformatics analysis
 - Interpreting evolutionary relationships
-
----
 
 ## 📷 Screenshots
 
@@ -146,7 +132,6 @@ Through this project, I gained practical experience in:
 - Analyze larger datasets.
 - Automate sequence preprocessing using Python.
 
----
 
 ## 👩‍💻 Author
 
